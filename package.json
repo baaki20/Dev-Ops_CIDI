@@ -1,13 +1,9 @@
 {
-  "name": "nodejs-test-app",
-  "version": "1.0.0",
-  "description": "A simple modern Node.js app for AWS pipeline testing",
-  "main": "server.js",
-  "type": "module",
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2"
+    "start": "node app.js"
   }
 }
